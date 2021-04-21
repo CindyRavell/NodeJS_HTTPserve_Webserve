@@ -1,0 +1,20 @@
+{
+  "name": "ejercicioserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "WebServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node WebServer.js",
+    "dev": "nodemon WebServer.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.24.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.22.1",
+    "nodemon": "^2.0.7"
+  }
+}
