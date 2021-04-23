@@ -1,0 +1,18 @@
+"DESKTOP-RJ9BD8F"
+
+3156201472
+
+"x64"
+
+[{"model":"Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz","speed":2594,"times":{"user":1186812,"nice":0,"sys":2110265,"idle":46384609,"irq":867296}},{"model":"Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz","speed":2594,"times":{"user":1103546,"nice":0,"sys":753343,"idle":47824609,"irq":19000}},{"model":"Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz","speed":2594,"times":{"user":2274593,"nice":0,"sys":967015,"idle":46439890,"irq":18515}},{"model":"Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz","speed":2594,"times":{"user":946859,"nice":0,"sys":410578,"idle":48324062,"irq":7578}},{"model":"Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz","speed":2594,"times":{"user":1588656,"nice":0,"sys":818750,"idle":47274093,"irq":13718}},{"model":"Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz","speed":2594,"times":{"user":895765,"nice":0,"sys":406015,"idle":48379734,"irq":6343}},{"model":"Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz","speed":2594,"times":{"user":1380593,"nice":0,"sys":758062,"idle":47542828,"irq":11453}},{"model":"Intel(R) Core(TM) i7-4720HQ CPU @ 2.60GHz","speed":2594,"times":{"user":1315203,"nice":0,"sys":656031,"idle":47710265,"irq":6656}}]
+
+70714
+
+{"uid":-1,"gid":-1,"username":"cindy","homedir":"C:\\Users\\cindy","shell":null}
+
+"win32"
+
+"Windows_NT"
+
+"C:\\Users\\cindy\\AppData\\Local\\Temp"
+

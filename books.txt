@@ -1,7 +1,6 @@
-1 . In Search of Lost Time by Marcel Proust.
-2 . Ulysses by James Joyce.
-3 . Don Quixote by Miguel de Cervantes.
-4 . One Hundred Years of Solitude by Gabriel Garcia Marquez.
-5 . The Great Gatsby by F.
-6 . Moby Dick by Herman Melville.
-7 . War and Peace by Leo Tolstoy.
+{
+libro:titulo1
+}
+{
+libro:titulo2
+}
